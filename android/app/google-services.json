@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801187604046",
+    "project_id": "major-project-64be2",
+    "storage_bucket": "major-project-64be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801187604046:android:fc9e0c93838d908039c51f",
+        "android_client_info": {
+          "package_name": "com.example.podcast_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaFcEyiNvWjY_hSZfVUm1r2HZJ7YtKSOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
